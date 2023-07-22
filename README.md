@@ -1,5 +1,5 @@
 # Grupo_4_2023
-Temática del sitio:
+# Temática del sitio:
 La página web se enfocará en la comercialización de dispositivos periféricos, en sus distintos tipos (entrada/salida, almacenamiento, comunicación) y componentes, responsables de realizar las operaciones de entrada y salida de un sistema informático, contando con una amplia variedad de diseños de la más alta gama. Entre los productos que se ofrecerán se encuentran Tarjetas de expansión, Discos ópticos, Audífonos, micrófonos, gabinetes, tarjetas gráficas, mouses de alta precisión, cámaras web de alta resolución, portátiles importadas etc.
 Público objetivo:
 Este público puede ser orientado a creadores de contenido, expertos en tecnología y todo aquel que quiera mejorar el confort de su computadora, y busca estar a la vanguardia con los últimos lanzamientos del mercado, 
