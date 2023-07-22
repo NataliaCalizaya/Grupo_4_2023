@@ -7,6 +7,7 @@ Este público puede ser orientado a creadores de contenido, expertos en tecnolog
 Nos interesa que nuestro público compre uno de nuestros productos y pueda salir satisfecho, ofrecemos garantías extras, financiación de los productos, compras online con envíos a domicilio y servicio de atención y asesoría de nuestros técnicos vía WhatsApp. 
 
 **Breve descripción de los integrantes del grupo:**
+
 Hola me llamo María L. Rodríguez tengo 19 años estudio APU, me apasionan los robots, la astronomía y las películas.
 
 Hola soy Natalia Calizaya tengo 22 años, estudio Ing. Informática me gusta programar y el helado
@@ -14,16 +15,23 @@ Hola soy Natalia Calizaya tengo 22 años, estudio Ing. Informática me gusta pro
 Hola me llamo Emmanuel Leandro Calapeña tengo 22 años me gusta la programación. la Inteligencia artificial, el espacio y los videojuegos
 
 *tiendas elegidas por su contenido*
+
 https://tienda.levelupworld.com/monitores-gabinetes/
 https://www.totalcompu.com.ar/accesorios-para-pc
 https://www.venex.com.ar/shopping_cart.php
+
 *tiendas por su estética*
+
 https://www.apple.com/la/
 https://www.razer.com/pc
+
 ofrece variedad de productos y un diseño apuntando a los componentes gamer
+
 https://www.musimundo.com/
 muy útil por su funcionalidad la utilización de filtros y la vista de los productos 
+
 https://redragon.es/
 https://shop.tesla.com/es_es?tesref=true
+
 la estética de estas últimas dos páginas es muy buena, siendo muy minimalista y fluida
 
