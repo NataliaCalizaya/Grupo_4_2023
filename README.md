@@ -1,4 +1,4 @@
-## Grupo_4_2023
+## DIGITAL HOUSE-Grupo 4 2023
 **Temática del sitio:**
 La página web se enfocará en la comercialización de dispositivos periféricos, en sus distintos tipos (entrada/salida, almacenamiento, comunicación) y componentes, responsables de realizar las operaciones de entrada y salida de un sistema informático, contando con una amplia variedad de diseños de la más alta gama. Entre los productos que se ofrecerán se encuentran Tarjetas de expansión, Discos ópticos, Audífonos, micrófonos, gabinetes, tarjetas gráficas, mouses de alta precisión, cámaras web de alta resolución, portátiles importadas etc.
 
