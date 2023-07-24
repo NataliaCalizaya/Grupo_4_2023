@@ -1,16 +1,16 @@
-## Grupo_4_2023
+## DIGITAL HOUSE-Grupo 4 2023
 **Temática del sitio:**
 La página web se enfocará en la comercialización de dispositivos periféricos, en sus distintos tipos (entrada/salida, almacenamiento, comunicación) y componentes, responsables de realizar las operaciones de entrada y salida de un sistema informático, contando con una amplia variedad de diseños de la más alta gama. Entre los productos que se ofrecerán se encuentran Tarjetas de expansión, Discos ópticos, Audífonos, micrófonos, gabinetes, tarjetas gráficas, mouses de alta precisión, cámaras web de alta resolución, portátiles importadas etc.
 
 **Público objetivo:**
 Este público puede ser orientado a creadores de contenido, expertos en tecnología y todo aquel que quiera mejorar el confort de su computadora, y busca estar a la vanguardia con los últimos lanzamientos del mercado, 
-Nos interesa que nuestro público compre uno de nuestros productos y pueda salir satisfecho, ofrecemos garantías extras, financiación de los productos, compras online con envíos a domicilio y servicio de atención y asesoría de nuestros técnicos vía WhatsApp. 
+Nos interesa que nuestro público compre uno de nuestros productos y pueda salir satisfecho, ofrecemos garantías extras, financiación de los productos, compras online con envíos a domicilio y servicio de atención y asesoría de nuestros técnicos. 
 
 **Breve descripción de los integrantes del grupo:**
 
-Hola me llamo María L. Rodríguez tengo 19 años estudio Analista Programador Universitario en la Facultad de Ingenieria de la UNJu, me apasiona la robotica, la astronomía y las películas.
-
 Hola soy Natalia Calizaya tengo 22 años, estudio Ing. Informática me gusta programar y el helado.
+
+Hola me llamo María L. Rodríguez tengo 19 años estudio Analista Programador Universitario en la Facultad de Ingenieria de la UNJu, me apasiona la robotica, la astronomía y las películas.
 
 Hola me llamo Emmanuel Leandro Calapeña tengo 22 años me gusta la programación. la Inteligencia artificial, el espacio y los videojuegos.
 
@@ -28,6 +28,7 @@ https://www.razer.com/pc
 ofrece variedad de productos y un diseño apuntando a los componentes gamer
 
 https://www.musimundo.com/
+
 muy útil por su funcionalidad la utilización de filtros y la vista de los productos 
 
 https://redragon.es/
