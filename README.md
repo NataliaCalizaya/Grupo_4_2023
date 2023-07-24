@@ -8,11 +8,11 @@ Nos interesa que nuestro público compre uno de nuestros productos y pueda salir
 
 **Breve descripción de los integrantes del grupo:**
 
-Hola me llamo María L. Rodríguez tengo 19 años estudio APU, me apasionan los robots, la astronomía y las películas.
+Hola me llamo María L. Rodríguez tengo 19 años estudio Analista Programador Universitario en la Facultad de Ingeniria de la UNJu, me apasiona la robotica, la astronomía y las películas.
 
-Hola soy Natalia Calizaya tengo 22 años, estudio Ing. Informática me gusta programar y el helado
+Hola soy Natalia Calizaya tengo 22 años, estudio Ing. Informática me gusta programar y el helado.
 
-Hola me llamo Emmanuel Leandro Calapeña tengo 22 años me gusta la programación. la Inteligencia artificial, el espacio y los videojuegos
+Hola me llamo Emmanuel Leandro Calapeña tengo 22 años me gusta la programación. la Inteligencia artificial, el espacio y los videojuegos.
 
 *tiendas elegidas por su contenido*
 
