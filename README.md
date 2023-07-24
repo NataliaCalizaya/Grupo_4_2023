@@ -8,7 +8,7 @@ Nos interesa que nuestro público compre uno de nuestros productos y pueda salir
 
 **Breve descripción de los integrantes del grupo:**
 
-Hola me llamo María L. Rodríguez tengo 19 años estudio Analista Programador Universitario en la Facultad de Ingeniria de la UNJu, me apasiona la robotica, la astronomía y las películas.
+Hola me llamo María L. Rodríguez tengo 19 años estudio Analista Programador Universitario en la Facultad de Ingenieria de la UNJu, me apasiona la robotica, la astronomía y las películas.
 
 Hola soy Natalia Calizaya tengo 22 años, estudio Ing. Informática me gusta programar y el helado.
 
