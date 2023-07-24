@@ -4,7 +4,7 @@ La página web se enfocará en la comercialización de dispositivos periféricos
 
 **Público objetivo:**
 Este público puede ser orientado a creadores de contenido, expertos en tecnología y todo aquel que quiera mejorar el confort de su computadora, y busca estar a la vanguardia con los últimos lanzamientos del mercado, 
-Nos interesa que nuestro público compre uno de nuestros productos y pueda salir satisfecho, ofrecemos garantías extras, financiación de los productos, compras online con envíos a domicilio y servicio de atención y asesoría de nuestros técnicos vía WhatsApp. 
+Nos interesa que nuestro público compre uno de nuestros productos y pueda salir satisfecho, ofrecemos garantías extras, financiación de los productos, compras online con envíos a domicilio y servicio de atención y asesoría de nuestros técnicos. 
 
 **Breve descripción de los integrantes del grupo:**
 
