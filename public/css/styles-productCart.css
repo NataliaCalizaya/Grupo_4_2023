@@ -1,0 +1,269 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+}
+.logo{
+    width: 100%;
+    height: 100%;
+    padding-right: 10%;
+}
+.logo-header{
+    margin:auto;
+    display: flex;
+    align-content: center;
+    width: 25%;
+}
+header{
+    width: 100%;
+    height: 20%;
+    box-sizing: border-box;
+    background-color: white;
+    
+} 
+header .main-header{
+    padding-bottom: 1%;
+    border-bottom: #222222 solid 2px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 30%;
+    box-sizing: border-box;
+
+}
+header .main-header-left-bar{
+    padding-top: 2%;
+    justify-content: space-between;
+    margin: 0 0 0 auto; 
+    display: flex;
+    flex-wrap: nowrap ;
+    align-items: center;
+    box-sizing: border-box;
+}
+.fa-cart-shopping, .fa-user{
+    width: 40px;
+    height: 40px;
+    margin:auto;
+    font-size: 30px;
+    padding-right: 8px;
+}
+
+.fa-magnifying-glass{
+    height: 40px;
+    width: 40px;
+    padding: 0px;
+    margin: 2px;
+    font-size: 30px;
+
+}
+.button-header{
+    background-color: white;
+    border:0px;
+}
+.busqueda input{
+    visibility: hidden;
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    border: 2px solid blue;
+}
+
+.busqueda:hover input {
+    visibility: initial;
+}
+main{
+    background-color: blue;
+}
+
+
+/*******************/
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.tu-pedido{
+    padding: 1%;
+    background-color: white;
+    width: 68%;
+}
+.total{
+    background-color: #ebebeb;
+    width: 30%;
+}
+.carrousel{
+    width: 100%;
+    background-color: brown;
+}
+/******************formulario*/
+.control-formulario{
+    padding: 5px 0px 5px 0px;
+    height: 7%;
+
+}
+.formulario{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.control-formulario input{
+    width: 90%;
+    
+    border-radius: 7px;
+}
+
+.medios-de-pago, .Cupon{
+    padding: 2%;
+    border: #222222 solid 1px;
+    
+    border-radius: 4px;
+    margin: 3%;
+}
+
+.botones{
+    display: flex;
+
+}
+/*************************************/
+footer{
+    background-color: #91C612;
+}
+.fab{
+    font-weight: 400;
+    color:black
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.footer-top{
+    border-bottom: 1px solid #222222;
+    display:flex;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.footer-iconos{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+   
+}
+.footer-logo{
+    width: 15%;
+}
+
+.box {
+    flex-wrap: wrap;
+    margin-right: -15px;
+    
+    width: 100%;
+    box-sizing: border-box;
+}
+.footer-box{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(57,57,57,.5);
+    padding-top: 1.5 rem;
+    padding-bottom: 1.5rem;
+}
+.footer-botto {
+    padding-bottom: 1.25rem;
+    padding-top: 1.25rem;
+    justify-content: space-between;
+    display: flex;
+}
+
+.cc {
+    line-height: 22px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: white;
+    padding-left: 10px;
+}
+.terms{
+    padding-right: 10px;
+}
+.terms a{
+    text-decoration: none;
+    color: black;
+}
+.footer-lista{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+    padding: 2%;
+
+}
+.footer-lista a{
+    color: black;
+    line-height: 22px;
+    padding: 2px;
+    text-decoration: none;
+
+}
+.main-navbar ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+    margin-left: 2%;
+}
+.main-navbar a {
+    text-decoration: none;
+    color: white ;
+    padding: 5px 0;
+    font-size: 17px;
+}
+@media(min-width:2px) and (max-width:766px){
+    .busqueda{
+        width: 33%;
+    }
+    .busqueda input{
+        display: none;
+    }
+    .button-header{
+        align-items: center;
+        margin-left: 37%;
+    }
+    header .main-header{
+        background-color: white;
+        width: 100%;
+        height: 30%;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+    
+    }
+    header .main-header-left-bar{
+        margin: 0;
+        justify-content: space-between;
+        align-items: center;
+        box-sizing: border-box;
+        
+        
+    }
+}
+
+@media(min-width:768px) and (max-width:1024px){ 
+    .container{
+        max-width: 720px;
+    }
+}
+.logo-header{
+    margin:2%;
+    display: flex;
+    align-content: center;
+    width: 30%;
+}
+

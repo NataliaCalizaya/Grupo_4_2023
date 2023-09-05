@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('../partials/head') %>
+  
+    <%- include('../partials/header') %>
+<body>
+    
+    <main>
+        
+        <div class="tu-pedido">
+            <h1 >tu pedido</h1>
+            
+            
+        </div>
+        <div class="total">
+            <h1 >total</h1>
+            <h2>Ingrese su codigo postal</h2>
+            <div class="formulario"> 
+                <form action="" method="post" class="formulario">
+                    <div class="control-formulario">
+                    <label for="Nombre y Apellido"></label>
+                    <input type="text" placeholder="Nombre y Apellido">
+                </div> 
+                <button type="submit">CALCULAR</button>           
+            </form>
+
+            <h3>ENVIO</h3>
+
+            <div class="medios-de-pago">medios de pago</div>
+            <div class="Cupon"> 
+                <form action="" method="post" class="formulario">
+                    <div class="control-formulario">
+                    <label for="cupon-de-desceunto"></label>
+                    <input type="text" placeholder="xxx-xxx-xxx">
+                </div> 
+                <div class ="botones"></div>
+                <button type="submit">APLICAR</button> 
+                <button type="submit">QUITAR</button>  
+            </div>        
+            </form>
+            </div>
+        </div>
+        <div class="carrousel">
+            <h3>cosas que podrian interesarte</h3>
+        </div>
+        
+
+    </main>
+
+    <%- include('../components/footer') %>
+    
+    
+</body>
+</html>
