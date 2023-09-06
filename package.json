@@ -2,9 +2,9 @@
   "name": "grupo_4_2023",
   "version": "1.0.0",
   "description": "**Temática del sitio:**\r La página web se enfocará en la comercialización de dispositivos periféricos, en sus distintos tipos (entrada/salida, almacenamiento, comunicación) y componentes, responsables de realizar las operaciones de entrada y salida de un sistema informático, contando con una amplia variedad de diseños de la más alta gama. Entre los productos que se ofrecerán se encuentran Tarjetas de expansión, Discos ópticos, Audífonos, micrófonos, gabinetes, tarjetas gráficas, mouses de alta precisión, cámaras web de alta resolución, portátiles importadas etc.",
-  "main": "src/index.js",
+  "main": "src/app.js",
   "scripts": {
-    "start": "npx nodemon src/index.js"
+    "start": "npx nodemon src/app.js"
   },
   "keywords": [],
   "author": "",

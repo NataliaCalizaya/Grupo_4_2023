@@ -1,5 +1,5 @@
 function productCart(req, res) {
-  res.render('../views/products/productCart');
+  res.render('./products/productCart');
 }
 
 module.exports = {
