@@ -11,7 +11,7 @@ app.use (express.static('public'))
 const index = require('./routes/index');
 app.use('/', index);
 
-const productos = require('./routes/products/:');
+const productos = require('./routes/products');
 app.use('/productos', productos);
 
 const usuarios = require('./routes/users');
